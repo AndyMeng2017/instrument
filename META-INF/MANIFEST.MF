@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: TestMainInJar
+Premain-Class: Premain
+Can-Redefine-Classes: true

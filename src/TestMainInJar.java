@@ -11,6 +11,7 @@ public class TestMainInJar {
 //        System.out.println(new TransClass().getNumber());
 //    }
 
+    // 演示在main方法执行后执行，需要指定Agent-Class
     public static void main(String[] args) throws InterruptedException {
         System.out.println(new TransClass().getNumber());
         int count = 0;

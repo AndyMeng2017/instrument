@@ -3,6 +3,7 @@ import java.lang.instrument.Instrumentation;
 import java.lang.instrument.UnmodifiableClassException;
 
 /**
+ * 这里要指定 Premain-Class，可以在运行前修改
  * @Author: mhn
  * @Date: 2020/3/31 11:53
  * @Version 1.0

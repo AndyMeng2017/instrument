@@ -2,6 +2,7 @@ import java.lang.instrument.Instrumentation;
 import java.lang.instrument.UnmodifiableClassException;
 
 /**
+ * 这里要指定 Agent-Class，可以在运行后进行动态修改
  * @Author: mhn
  * @Date: 2020/3/31 15:21
  * @Version 1.0
